@@ -1,0 +1,7 @@
+.env
+__pycache__/
+translation_chat_history.json
+.pytest_cache/
+*.pyc
+venv/
+.venv/
